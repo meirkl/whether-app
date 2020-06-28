@@ -1,0 +1,9 @@
+export const appBluePrimary = '#2f80ed';
+export const appBlueSecondary = '#57bce7';
+export const thermometerYellow = '#ffff00';
+export const appBlueLight = '#56ccf2';
+export const pink = '#e83e8c';
+export const white = '#fff';
+export const gray = '#6c757d';
+export const red = '#ff0000';
+export const errorColor = '#f34c50';
